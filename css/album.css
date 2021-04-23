@@ -1,3 +1,7 @@
-.margin_bot{
+.margin_bot {
   margin-bottom: 100px !important;
+}
+
+img {
+  width: 50px;
 }
