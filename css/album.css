@@ -1,3 +1,11 @@
 .phmargin{
   margin-top: 50px !important;
 }
+.margin_bot {
+  margin-bottom: 100px !important;
+}
+
+.school-photo {
+  height: 300px;
+  width: auto;
+}
