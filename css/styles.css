@@ -11080,3 +11080,7 @@ footer.footer {
 .navbar-brand>img {
   width: 300px;
 }
+
+.img-border {
+  border: 5px solid black;
+}
